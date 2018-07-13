@@ -11,5 +11,5 @@ const shout = (aStr) => {
 }
 
 const whisper = (aStr) => {
-  cosnole.log(aStr.toLowerCase());
+  console.log(aStr.toLowerCase());
 }
