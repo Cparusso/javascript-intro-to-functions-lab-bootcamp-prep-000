@@ -16,7 +16,7 @@ const logWhisper = (aStr) => {
 
 const sayHiToGrandma = (aStr) => {
   if (aStr === whisper(aStr)) {
-    return "I can't hear you";
+    return "I can't hear you!";
   } else if (aStr === shout(aStr)) {
     return "YES INDEED!";
   } else if (aStr === "I love you, Grandma.") {
