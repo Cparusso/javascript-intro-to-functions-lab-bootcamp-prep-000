@@ -1,3 +1,3 @@
 const shout = (aStr) => {
-  return aStr.toUpperCase;
+  return aStr.toUpperCase();
 }
