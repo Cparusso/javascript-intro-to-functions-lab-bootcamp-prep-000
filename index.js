@@ -6,10 +6,10 @@ const whisper = (aStr) => {
   return aStr.toLowerCase();
 }
 
-const shout = (aStr) => {
+const logShout = (aStr) => {
   console.log(aStr.toUpperCase());
 }
 
-const whisper = (aStr) => {
+const logWhisper = (aStr) => {
   console.log(aStr.toLowerCase());
 }
